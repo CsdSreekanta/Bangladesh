@@ -26,3 +26,34 @@ body{
     color: white;
     cursor: pointer;
 }
+.second-section{
+    text-align: center;
+    margin-top: 50px;
+}
+.dhaka{
+    width:250px;
+    border:1px solid gray;
+    box-shadow: 4px 4px 12px gray;
+    border-radius: 5px;
+}
+.div-img img{
+    width:100%;
+}
+.all-divisions{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.bottom-section{
+    padding: 10px;
+}
+.btn-details{
+    background-color: red;
+    padding: 10px 30px;
+    border-radius: 10px;
+    border:none;
+}
+.btn-details:hover{
+    background-color: blueviolet;
+    transition: 0.8s;
+}
